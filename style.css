@@ -4,3 +4,15 @@
     margin-right: auto;
     font-family: 'Open Sans', sans-serif;
 }
+
+.newsletter h3{
+    margin-top: 0;
+}
+
+.newsletter{
+    color: grey;
+    border:solid thin #cfcfcf;
+    border-radius: 3px;
+    padding: 10px;
+
+}
